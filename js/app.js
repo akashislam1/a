@@ -27,4 +27,4 @@ const setInnerTextById = (id, text) =>{
     document.getElementById(id).innerText = text;
 }
 
-loadTem('london')
+loadTem('dhaka')
